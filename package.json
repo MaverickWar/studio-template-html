@@ -1,0 +1,12 @@
+{
+  "name": "studio-template-html",
+  "private": true,
+  "scripts": {
+    "dev": "serve .",
+    "check": "html-validate index.html"
+  },
+  "devDependencies": {
+    "html-validate": "^11.21.1",
+    "serve": "^14.2.7"
+  }
+}
